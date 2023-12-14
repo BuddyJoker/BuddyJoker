@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jimmywang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimmy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user9101697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user9101697" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9101697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user9101697" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
